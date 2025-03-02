@@ -1,0 +1,53 @@
+Xsession: X session started for root at Fri Feb 28 05:47:56 CET 2025
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/0/bus
+dbus-update-activation-environment: setting DISPLAY=:1
+X Error of failed request:  BadValue (integer parameter out of range for operation)
+  Major opcode of failed request:  109 (X_ChangeHosts)
+  Value in failed request:  0x5
+  Serial number of failed request:  6
+  Current serial number in output stream:  8
+localuser:root being added to access control list
+Xsession: unable to start X session --- no "/root/.xsession" file, no 
+"/root/.Xsession" file, no session managers, no window managers, and no 
+terminal emulators found; aborting.
+Warning: Cannot convert string "vlines2" to type Pixmap
+Xsession: X session started for root at Fri Feb 28 05:50:02 CET 2025
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/0/bus
+dbus-update-activation-environment: setting DISPLAY=:2
+X Error of failed request:  BadValue (integer parameter out of range for operation)
+  Major opcode of failed request:  109 (X_ChangeHosts)
+  Value in failed request:  0x5
+  Serial number of failed request:  6
+  Current serial number in output stream:  8
+localuser:root being added to access control list
+Xsession: unable to start X session --- no "/root/.xsession" file, no 
+"/root/.Xsession" file, no session managers, no window managers, and no 
+terminal emulators found; aborting.
+Warning: Cannot convert string "vlines2" to type Pixmap
+Xsession: X session started for root at Fri Feb 28 06:44:45 CET 2025
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/0/bus
+dbus-update-activation-environment: setting DISPLAY=:3
+X Error of failed request:  BadValue (integer parameter out of range for operation)
+  Major opcode of failed request:  109 (X_ChangeHosts)
+  Value in failed request:  0x5
+  Serial number of failed request:  6
+  Current serial number in output stream:  8
+localuser:root being added to access control list
+Xsession: unable to start X session --- no "/root/.xsession" file, no 
+"/root/.Xsession" file, no session managers, no window managers, and no 
+terminal emulators found; aborting.
+Warning: Cannot convert string "vlines2" to type Pixmap
+Xsession: X session started for root at Fri Feb 28 07:11:00 CET 2025
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/0/bus
+dbus-update-activation-environment: setting DISPLAY=:1
+X Error of failed request:  BadValue (integer parameter out of range for operation)
+  Major opcode of failed request:  109 (X_ChangeHosts)
+  Value in failed request:  0x5
+  Serial number of failed request:  6
+  Current serial number in output stream:  8
+localuser:root being added to access control list
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+libEGL warning: DRI3: Screen seems not DRI3 capable
+libEGL warning: DRI3: Screen seems not DRI3 capable
+MESA: error: ZINK: failed to choose pdev
+libEGL warning: egl: failed to create dri2 screen

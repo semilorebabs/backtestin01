@@ -1,0 +1,20 @@
+28/02/25 05:50:01 Xvnc version TightVNC-1.3.10
+28/02/25 05:50:01 Copyright (C) 2000-2009 TightVNC Group
+28/02/25 05:50:01 Copyright (C) 1999 AT&T Laboratories Cambridge
+28/02/25 05:50:01 All Rights Reserved.
+28/02/25 05:50:01 See http://www.tightvnc.com/ for information on TightVNC
+28/02/25 05:50:01 Desktop name 'X' (hostname:2)
+28/02/25 05:50:01 Protocol versions supported: 3.3, 3.7, 3.8, 3.7t, 3.8t
+28/02/25 05:50:01 Listening for VNC connections on TCP port 5902
+Font directory '/usr/share/fonts/X11/Type1/' not found - ignoring
+Font directory '/usr/share/fonts/X11/75dpi/' not found - ignoring
+Font directory '/usr/share/fonts/X11/100dpi/' not found - ignoring
+xrdb: No such file or directory
+xrdb: can't open file '/root/.Xresources'
+
+28/02/25 06:21:28 Got connection from client 205.210.31.238
+28/02/25 06:21:29 Using protocol version 3.8
+28/02/25 06:21:29 rfbProcessClientSecurityType: wrong security type requested
+28/02/25 06:21:29 Client 205.210.31.238 gone
+28/02/25 06:21:29 Statistics:
+28/02/25 06:21:29   framebuffer updates 0, rectangles 0, bytes 0

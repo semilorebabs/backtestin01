@@ -1,0 +1,78 @@
+28/02/25 07:10:59 Xvnc version TightVNC-1.3.10
+28/02/25 07:10:59 Copyright (C) 2000-2009 TightVNC Group
+28/02/25 07:10:59 Copyright (C) 1999 AT&T Laboratories Cambridge
+28/02/25 07:10:59 All Rights Reserved.
+28/02/25 07:10:59 See http://www.tightvnc.com/ for information on TightVNC
+28/02/25 07:10:59 Desktop name 'X' (hostname:1)
+28/02/25 07:10:59 Protocol versions supported: 3.3, 3.7, 3.8, 3.7t, 3.8t
+28/02/25 07:10:59 Listening for VNC connections on TCP port 5901
+Font directory '/usr/share/fonts/X11/Type1/' not found - ignoring
+Font directory '/usr/share/fonts/X11/75dpi/' not found - ignoring
+Font directory '/usr/share/fonts/X11/100dpi/' not found - ignoring
+xrdb: No such file or directory
+xrdb: can't open file '/root/.Xresources'
+
+28/02/25 07:22:16 Got connection from client 91.196.152.110
+28/02/25 07:22:16 rfbProcessClientProtocolVersion: not a valid RFB client
+28/02/25 07:22:16 Client 91.196.152.110 gone
+28/02/25 07:22:16 Statistics:
+28/02/25 07:22:16   framebuffer updates 0, rectangles 0, bytes 0
+
+28/02/25 07:22:16 Got connection from client 91.196.152.22
+28/02/25 07:22:19 rfbProcessClientProtocolVersion: client gone
+28/02/25 07:22:19 Client 91.196.152.22 gone
+28/02/25 07:22:19 Statistics:
+28/02/25 07:22:19   framebuffer updates 0, rectangles 0, bytes 0
+
+28/02/25 07:26:31 Got connection from client 43.250.242.139
+28/02/25 07:26:31 Using protocol version 3.8
+28/02/25 07:26:38 Full-control authentication passed by 43.250.242.139
+28/02/25 07:26:39 rfbProcessClientNormalMessage: ignoring unknown encoding 24
+28/02/25 07:26:39 rfbProcessClientNormalMessage: ignoring unknown encoding 16
+28/02/25 07:26:39 rfbProcessClientNormalMessage: ignoring unknown encoding 22
+28/02/25 07:26:39 rfbProcessClientNormalMessage: ignoring unknown encoding 21
+28/02/25 07:26:39 rfbProcessClientNormalMessage: ignoring unknown encoding 15
+28/02/25 07:26:39 Using zlib encoding for client 43.250.242.139
+28/02/25 07:26:39 rfbProcessClientNormalMessage: ignoring unknown encoding -314
+28/02/25 07:26:39 Enabling full-color cursor updates for client 43.250.242.139
+28/02/25 07:26:39 rfbProcessClientNormalMessage: ignoring unknown encoding -223
+28/02/25 07:26:39 Pixel format for client 43.250.242.139:
+28/02/25 07:26:39   8 bpp, depth 6
+28/02/25 07:26:39   true colour: max r 3 g 3 b 3, shift r 4 g 2 b 0
+28/02/25 07:26:39 Using raw encoding for client 43.250.242.139
+28/02/25 07:26:39 rfbProcessClientNormalMessage: ignoring unknown encoding 24
+28/02/25 07:26:39 rfbProcessClientNormalMessage: ignoring unknown encoding 22
+28/02/25 07:26:39 rfbProcessClientNormalMessage: ignoring unknown encoding 21
+28/02/25 07:26:39 rfbProcessClientNormalMessage: ignoring unknown encoding 16
+28/02/25 07:26:39 rfbProcessClientNormalMessage: ignoring unknown encoding 15
+28/02/25 07:26:39 rfbProcessClientNormalMessage: ignoring unknown encoding -314
+28/02/25 07:26:39 Enabling full-color cursor updates for client 43.250.242.139
+28/02/25 07:26:39 rfbProcessClientNormalMessage: ignoring unknown encoding -223
+28/02/25 07:26:39 rfbProcessClientNormalMessage: ignoring unknown encoding 24
+28/02/25 07:26:39 rfbProcessClientNormalMessage: ignoring unknown encoding 16
+28/02/25 07:26:39 rfbProcessClientNormalMessage: ignoring unknown encoding 22
+28/02/25 07:26:39 rfbProcessClientNormalMessage: ignoring unknown encoding 21
+28/02/25 07:26:39 rfbProcessClientNormalMessage: ignoring unknown encoding 15
+28/02/25 07:26:39 Using zlib encoding for client 43.250.242.139
+28/02/25 07:26:39 rfbProcessClientNormalMessage: ignoring unknown encoding -314
+28/02/25 07:26:39 Enabling full-color cursor updates for client 43.250.242.139
+28/02/25 07:26:39 rfbProcessClientNormalMessage: ignoring unknown encoding -223
+28/02/25 07:26:39 Pixel format for client 43.250.242.139:
+28/02/25 07:26:39   32 bpp, depth 24, little endian
+28/02/25 07:26:39   true colour: max r 255 g 255 b 255, shift r 16 g 8 b 0
+28/02/25 07:26:39   no translation needed
+28/02/25 07:27:53 Client 43.250.242.139 gone
+28/02/25 07:27:53 Statistics:
+28/02/25 07:27:53   key events received 10, pointer events 166
+28/02/25 07:27:53   framebuffer updates 9, rectangles 103, bytes 46337
+28/02/25 07:27:53     cursor shape updates 4, bytes 2064
+28/02/25 07:27:53     raw rectangles 1, bytes 16396
+28/02/25 07:27:53     zlib rectangles 98, bytes 27877
+28/02/25 07:27:53   raw bytes equivalent 10261920, compression ratio 231.787320
+
+28/02/25 08:18:41 Got connection from client 217.113.5.38
+28/02/25 08:18:41 Using protocol version 3.8
+28/02/25 08:18:41 rfbProcessClientSecurityType: wrong security type requested
+28/02/25 08:18:41 Client 217.113.5.38 gone
+28/02/25 08:18:41 Statistics:
+28/02/25 08:18:41   framebuffer updates 0, rectangles 0, bytes 0
